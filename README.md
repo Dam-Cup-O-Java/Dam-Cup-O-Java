@@ -1,5 +1,5 @@
-# Student • Programmer • Idealist
-## Hi I'm VatsaDev, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
+# Dev • Astronomer • Student
+## Hi I'm Lord-Xenon, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
 
 #### Learning
 - typescript
@@ -7,4 +7,6 @@
 - flutter
 - swift
 - vue
+- javascript(Advanced)
 ---
+
