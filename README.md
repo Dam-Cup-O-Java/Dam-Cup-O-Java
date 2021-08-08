@@ -12,4 +12,4 @@
 
 [![Xenon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lord-Xenon&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Xenon&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lord-Xenon&repo=XenonVirtualKeyboard&show_owner=true)](https://github.com/Lord-Xenon/XenonVirtualKeyboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lord-Xenon&repo=XenonVirtualKeyboard&show_owner=true)](https://github.com/Lord-Xenon/XenonvVirtualKeyboard&theme=outrun)
