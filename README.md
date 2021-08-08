@@ -10,3 +10,4 @@
 - javascript(Advanced)
 ---
 
+[![Xenon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lord-Xenon)](https://github.com/anuraghazra/github-readme-stats)
