@@ -11,8 +11,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 ---
 
-[![Xenon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lord-Xenon&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Xenon&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lord-Xenon&repo=XenonVirtualKeyboard&show_owner=true&theme=midnight-purple)](https://github.com/Lord-Xenon/XenonVirtualKeyboard)<br>
+[![Xenon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dam-Cup-O-Java&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dam-Cup-O-Java&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dam-Cup-O-Java&repo=XenonVirtualKeyboard&show_owner=true&theme=midnight-purple)](https://github.com/Lord-Xenon/XenonVirtualKeyboard)<br>
 Me chilling rn xD <br>
 <img src="/technyancolor.gif">
